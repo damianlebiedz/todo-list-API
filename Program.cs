@@ -18,7 +18,6 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 // REST endpoints for TaskItem
-
 app.MapGet("/tasks", async (AppDbContext db) =>
     await db.Tasks.ToListAsync());
 
