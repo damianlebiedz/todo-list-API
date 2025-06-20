@@ -32,4 +32,4 @@ dotnet run
 
 ## Contact
 
-Damian Lebiedü | https://damianlebiedz.github.io/contact.html
+Damian Lebied≈∫ | https://damianlebiedz.github.io/contact.html
