@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Dotnet local history
+.localhistory/
+
+# Logs
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.userprefs
+
+# Resharper
+_ReSharper*/
+
+# ASP.NET temporary files
+App_Data/
+
+# IIS Express
+IISExpress/
+
+# DotNet Core Secrets
+secrets.json
+
+# Database files
+*.db
