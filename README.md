@@ -28,7 +28,7 @@ dotnet ef migrations add InitialCreate
 dotnet ef database update
 dotnet run
 ```
-4. Open the browser at the URL shown in the terminal (default: http://localhost:5000) and test the API using Swagger UI.
+4. Open the browser at the port shown in the terminal (default: http://localhost:5001/swagger) and test the API using Swagger UI.
 
 ## Contact
 
